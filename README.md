@@ -35,8 +35,13 @@ Mohammad Suliman, Iddo Hakim, and Nachum Dershowitz. *“Classifying Medieval Ma
 Or using BibTeX:
 
 ```bibtex
-@article{gogawale2024classifying,
-  title={Classifying Medieval Manuscripts by Pen and Support},
-  author={Gogawale, Sharva and Ventura, Omer and Vasyutinsky-Shapira, Daria and Kurar-Barakat, Berat and Grudka, Gal and Suliman, Mohammad and Hakim, Iddo and Dershowitz, Nachum},
-  year={2025}
+@article{10.63744@tL5xGcaScd42,
+  title = {Classifying Medieval Manuscripts by Pen and Support},
+  author = {Sharva Gogawale and Omer Ventura and Daria \{Vasyutinsky-Shapira\} and Berat \{Kurar-Barakat\} and Gal Grudka and Mohammad Suliman and Iddo Hakim and Nachum Dershowitz},
+  year = {2025},
+  journal = {Anthology of Computers and the Humanities},
+  volume = {3},
+  pages = {1349--1359},
+  editor = {Taylor Arnold, Margherita Fantoli, and Ruben Ros},
+  doi = {10.63744/tL5xGcaScd42}
 }
