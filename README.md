@@ -1,4 +1,4 @@
-```
+
 # Classifying Medieval Manuscripts by Pen and Support
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 
