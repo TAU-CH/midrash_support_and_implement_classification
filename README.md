@@ -6,6 +6,8 @@
 
 This is the official code repository for the paper: **"Classifying Medieval Manuscripts by Pen and Support"**.
 
+The dataset used in this project is available in the private repository: [midrash_support_and_implement_classification_dataset](https://github.com/TAU-CH/midrash_support_and_implement_classification_dataset). Access is restricted to authorized users.
+
 ## Abstract
 We present a machine-learning approach for classifying medieval Hebrew manuscripts by two key material attributes: writing support (whether the substrate is paper or
 parchment) and writing implement (quill pen vs. reed calamus). Our work contributes to the emerging field of computational codicology, offering tools to aid paleographers
